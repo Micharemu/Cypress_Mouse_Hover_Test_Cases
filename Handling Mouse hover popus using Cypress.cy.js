@@ -1,4 +1,4 @@
-//.......Lesson 39
+
 //.......Handling Mouse hover popus using Cypress 
 
 
