@@ -84,11 +84,3 @@ Check that hover styles (e.g. color, underline) are applied correctly.
 
 Ensure hover-based elements are keyboard-accessible when applicable.
 
-
-📎 Related Links
-
-🔗 Portfolio: https://micharemu.github.io/qa-portfolio/
-
-🔗 GitHub Profile: github.com/Micharemu
-
-🔗 LinkedIn: Oladiran Tobi Michael
